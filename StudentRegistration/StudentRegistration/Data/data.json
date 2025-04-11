@@ -1,0 +1,57 @@
+[
+  {
+    "Name": "Sevinc",
+    "Surname": "Hesenova",
+    "Age": 19,
+    "Email": "sevinc@gmail.com",
+    "Specialty": "English Teacher",
+    "GroupNumber": "310E",
+    "Phone": "+994505005050",
+    "Id": "2d3daca7-6f02-4ba8-b4f5-86b963f57769",
+    "IsDeleted": false
+  },
+  {
+    "Name": "Aydın",
+    "Surname": "Həsənov",
+    "Age": 20,
+    "Email": "aydin@gmail.com",
+    "Specialty": "Information Technology",
+    "GroupNumber": "1162A1",
+    "Phone": "+994504004040",
+    "Id": "3a6a97fd-53a2-4be2-a8ec-1dca791b0167",
+    "IsDeleted": false
+  },
+  {
+    "Name": "Arif",
+    "Surname": "Abbasov",
+    "Age": 20,
+    "Email": "arif@gmail.com",
+    "Specialty": "Bizness Analtics",
+    "GroupNumber": "111A1",
+    "Phone": "+994509009090",
+    "Id": "7bf89d43-89fe-456b-a14a-7cba50cf476d",
+    "IsDeleted": true
+  },
+  {
+    "Name": "Abbas",
+    "Surname": "Abbasov",
+    "Age": 20,
+    "Email": "abbas@gmail.com",
+    "Specialty": "Information Technology",
+    "GroupNumber": "1162A4",
+    "Phone": "+994506006060",
+    "Id": "c32fe851-a169-4a3c-8b07-199f0b9ce084",
+    "IsDeleted": true
+  },
+  {
+    "Name": "Asim",
+    "Surname": "Abdiyev",
+    "Age": 18,
+    "Email": "asim@gmail.com",
+    "Specialty": "Computer Science",
+    "GroupNumber": "111F",
+    "Phone": "+994508004060",
+    "Id": "3195fb1f-1866-48c6-9464-0e6dc1b23806",
+    "IsDeleted": false
+  }
+]

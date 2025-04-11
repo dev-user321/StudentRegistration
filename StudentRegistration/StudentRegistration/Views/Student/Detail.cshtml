@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewData["Title"] = "Detail";
+}
+@model Student
+<div class="container" style="margin-left:240px;margin-top:10px;">
+    <div class="card" style="width: 18rem;">
+        <div class="card-body">
+            <h5 class="card-title">@Model.Name</h5>
+            <h5 class="card-title">@Model.Surname</h5>
+            <h5 class="card-title">@Model.Age</h5>
+            <h5 class="card-title">@Model.Email</h5>
+            <h5 class="card-title">@Model.Specialty</h5>
+            <h5 class="card-title">@Model.GroupNumber</h5>
+            <h5 class="card-title">@Model.Phone</h5>
+            <a asp-controller="Student" asp-action="Index" class="btn btn-danger">Back</a>
+
+        </div>
+    </div>
+</div>
+

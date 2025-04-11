@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "Edit";
+}
+
+@model Student
+<form method="post" asp-controller="Student" asp-action="Edit">
+    <div class="container mt-5" style="width:700px;margin-left: 260px;background-color:white;">
+        <div class="form-group">
+            <label for="fullName">Enter Name</label> <br />
+            <input asp-for="Name" type="text" class="form-control" placeholder="Trying write Name ..." style="border:1px solid black;padding-left: 10px;">
+            <label for="fullName">Enter Surname</label> <br />
+            <input asp-for="Surname" type="text" class="form-control" placeholder="Trying write Surname ..." style="border:1px solid black;padding-left: 10px;">
+            <label for="fullName">Enter Age</label> <br />
+            <input asp-for="Age" type="text" class="form-control" placeholder="Trying write Age ..." style="border:1px solid black;padding-left: 10px;">
+            <label for="fullName">Enter Email</label> <br />
+            <input asp-for="Email" type="text" class="form-control" placeholder="Trying write Email ..." style="border:1px solid black;padding-left: 10px;">
+            <label for="fullName">Enter Specaility</label> <br />
+            <input asp-for="Specialty" type="text" class="form-control" placeholder="Trying write Speciality ..." style="border:1px solid black;padding-left: 10px;">
+            <label for="fullName">Enter Group Number</label> <br />
+            <input asp-for="GroupNumber" type="text" class="form-control" placeholder="Trying write Group Number ..." style="border:1px solid black;padding-left: 10px;">
+            <label for="fullName">Enter Phone Number</label> <br />
+            <input asp-for="Phone" type="text" class="form-control" placeholder="Trying write Phone Number ..." style="border:1px solid black;padding-left: 10px;">
+            <br />
+            <span class="text-danger">@ViewBag.Message</span>
+        </div>
+        <button type="submit" class="btn btn-primary">Deyis</button>
+        <a asp-controller="Student" asp-action="Index" class="btn btn-danger">Back</a>
+    </div>
+</form>
+
+
