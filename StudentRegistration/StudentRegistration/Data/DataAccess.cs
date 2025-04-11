@@ -5,7 +5,7 @@ namespace StudentRegistration.Data
 {
     public class DataAccess
     {
-        private readonly string _path = "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\StudentRegistrationForm\\StudentRegistration\\StudentRegistration\\Data\\data.json";
+        private readonly string _path = "data.json";
         
         public List<Student> GetAllStudents()
         {
