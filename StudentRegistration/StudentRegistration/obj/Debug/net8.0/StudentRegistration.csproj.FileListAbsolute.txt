@@ -230,3 +230,4 @@ C:\Users\Lenovo\Desktop\AspNet-Quiz\StudentRegistrationForm\StudentRegistration\
 C:\Users\Lenovo\Desktop\AspNet-Quiz\StudentRegistrationForm\StudentRegistration\StudentRegistration\obj\Debug\net8.0\StudentRegistration.pdb
 C:\Users\Lenovo\Desktop\AspNet-Quiz\StudentRegistrationForm\StudentRegistration\StudentRegistration\obj\Debug\net8.0\StudentRegistration.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\AspNet-Quiz\StudentRegistrationForm\StudentRegistration\StudentRegistration\obj\Debug\net8.0\ref\StudentRegistration.dll
+C:\Users\Lenovo\Desktop\AspNet-Quiz\StudentRegistrationForm\StudentRegistration\StudentRegistration\obj\Debug\net8.0\StudentRegistration.sourcelink.json

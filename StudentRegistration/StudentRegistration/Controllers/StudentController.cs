@@ -2,22 +2,22 @@
 using Newtonsoft.Json;
 using StudentRegistration.Data;
 using StudentRegistration.Models;
+using StudentRegistration.Services;
 
 namespace StudentRegistration.Controllers
 {
     public class StudentController : Controller
     {
-        private readonly DataAccess _dataAccess;
+        private readonly StudentService _studentService;
 
         public StudentController()
         {
-            _dataAccess = new DataAccess();
+            _studentService = new StudentService();  
         }
 
         public IActionResult Index()
         {
-            var studentList = _dataAccess.GetAllStudents();
-            var students = studentList.FindAll(m => !m.IsDeleted);
+            var students = _studentService.GetAllStudents().FindAll(m => !m.IsDeleted);
             return View(students);
         }
 
@@ -32,9 +32,7 @@ namespace StudentRegistration.Controllers
         {
             if (student == null) return BadRequest();
             student.Id = Guid.NewGuid().ToString();
-            var students = _dataAccess.GetAllStudents();
-            students.Add(student);
-            _dataAccess.SaveStudents(students);
+            _studentService.AddStudent(student);
             return RedirectToAction("Index");
         }
 
@@ -42,8 +40,7 @@ namespace StudentRegistration.Controllers
         public IActionResult Edit(string? id)
         {
             if (id == null) return BadRequest();
-            var students = _dataAccess.GetAllStudents();
-            var student = students.Find(x => x.Id == id);
+            var student = _studentService.GetStudentById(id);
             if (student == null) return NotFound();
             return View(student);
         }
@@ -52,17 +49,7 @@ namespace StudentRegistration.Controllers
         public IActionResult Edit(string? id, Student student)
         {
             if (id == null) return BadRequest();
-            var students = _dataAccess.GetAllStudents();
-            var oldStudent = students.Find(x => x.Id == id);
-            if (oldStudent == null) return NotFound();
-            oldStudent.Name = student.Name;
-            oldStudent.Email = student.Email;
-            oldStudent.Phone = student.Phone;
-            oldStudent.GroupNumber = student.GroupNumber;
-            oldStudent.Surname = student.Surname;
-            oldStudent.Age = student.Age;
-            oldStudent.Specialty = student.Specialty;
-            _dataAccess.SaveStudents(students);
+            _studentService.UpdateStudent(id, student);
             return RedirectToAction("Index");
         }
 
@@ -70,18 +57,13 @@ namespace StudentRegistration.Controllers
         public IActionResult Delete(string? id)
         {
             if (id == null) return BadRequest();
-            var students = _dataAccess.GetAllStudents();
-            var student = students.Find(x => x.Id == id);
-            if (student == null) return NotFound();
-            student.IsDeleted = true;
-            _dataAccess.SaveStudents(students);
+            _studentService.DeleteStudent(id);
             return RedirectToAction("Index");
         }
 
         public IActionResult Detail(string id)
         {
-            var students = _dataAccess.GetAllStudents();
-            var student = students.Find(x => x.Id == id);
+            var student = _studentService.GetStudentById(id);
             return View(student);
         }
     }

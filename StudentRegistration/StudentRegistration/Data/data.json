@@ -8,7 +8,7 @@
     "GroupNumber": "310E",
     "Phone": "+994505005050",
     "Id": "2d3daca7-6f02-4ba8-b4f5-86b963f57769",
-    "IsDeleted": false
+    "IsDeleted": true
   },
   {
     "Name": "Aydın",
@@ -52,6 +52,17 @@
     "GroupNumber": "111F",
     "Phone": "+994508004060",
     "Id": "3195fb1f-1866-48c6-9464-0e6dc1b23806",
+    "IsDeleted": false
+  },
+  {
+    "Name": "Akif",
+    "Surname": "Abbasov",
+    "Age": 26,
+    "Email": "akif@gmail.com",
+    "Specialty": "Bizness Analtics",
+    "GroupNumber": "1162A4",
+    "Phone": "+994504004040",
+    "Id": "63c8620b-c35e-453d-abc2-7a76d9d1f3a6",
     "IsDeleted": false
   }
 ]

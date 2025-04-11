@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\StudentRegistrationForm\\StudentRegistration\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F4988AE-B5FB-4D87-AD55-0BD39DC6710E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\studentregistrationform\\studentregistration\\studentregistration\\data\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F4988AE-B5FB-4D87-AD55-0BD39DC6710E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\data\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F4988AE-B5FB-4D87-AD55-0BD39DC6710E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\studentregistrationform\\studentregistration\\studentregistration\\data\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0F4988AE-B5FB-4D87-AD55-0BD39DC6710E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\data\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F4988AE-B5FB-4D87-AD55-0BD39DC6710E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\studentregistrationform\\studentregistration\\studentregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F4988AE-B5FB-4D87-AD55-0BD39DC6710E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F4988AE-B5FB-4D87-AD55-0BD39DC6710E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\studentregistrationform\\studentregistration\\studentregistration\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F4988AE-B5FB-4D87-AD55-0BD39DC6710E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4988AE-B5FB-4D87-AD55-0BD39DC6710E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\studentregistrationform\\studentregistration\\studentregistration\\data\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4988AE-B5FB-4D87-AD55-0BD39DC6710E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\data\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4988AE-B5FB-4D87-AD55-0BD39DC6710E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\studentregistrationform\\studentregistration\\studentregistration\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4988AE-B5FB-4D87-AD55-0BD39DC6710E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F4988AE-B5FB-4D87-AD55-0BD39DC6710E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\studentregistrationform\\studentregistration\\studentregistration\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F4988AE-B5FB-4D87-AD55-0BD39DC6710E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4988AE-B5FB-4D87-AD55-0BD39DC6710E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\studentregistrationform\\studentregistration\\studentregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4988AE-B5FB-4D87-AD55-0BD39DC6710E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F4988AE-B5FB-4D87-AD55-0BD39DC6710E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\studentregistrationform\\studentregistration\\studentregistration\\views\\student\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -51,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{0F4988AE-B5FB-4D87-AD55-0BD39DC6710E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F4988AE-B5FB-4D87-AD55-0BD39DC6710E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\studentregistrationform\\studentregistration\\studentregistration\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F4988AE-B5FB-4D87-AD55-0BD39DC6710E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F4988AE-B5FB-4D87-AD55-0BD39DC6710E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\studentregistrationform\\studentregistration\\studentregistration\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0F4988AE-B5FB-4D87-AD55-0BD39DC6710E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -70,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,20 +94,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\StudentRegistrationForm\\StudentRegistration\\StudentRegistration\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentRegistration\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\StudentRegistrationForm\\StudentRegistration\\StudentRegistration\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentRegistration\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:49:42.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DataAccess.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\StudentRegistrationForm\\StudentRegistration\\StudentRegistration\\Data\\DataAccess.cs",
               "RelativeDocumentMoniker": "StudentRegistration\\Data\\DataAccess.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\StudentRegistrationForm\\StudentRegistration\\StudentRegistration\\Data\\DataAccess.cs",
               "RelativeToolTip": "StudentRegistration\\Data\\DataAccess.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T12:21:06.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\StudentRegistrationForm\\StudentRegistration\\StudentRegistration\\Views\\Student\\Detail.cshtml",
               "RelativeDocumentMoniker": "StudentRegistration\\Views\\Student\\Detail.cshtml",
@@ -115,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\StudentRegistrationForm\\StudentRegistration\\StudentRegistration\\Views\\Student\\Edit.cshtml",
               "RelativeDocumentMoniker": "StudentRegistration\\Views\\Student\\Edit.cshtml",
@@ -127,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\StudentRegistrationForm\\StudentRegistration\\StudentRegistration\\Views\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "StudentRegistration\\Views\\Student\\Create.cshtml",
@@ -139,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\StudentRegistrationForm\\StudentRegistration\\StudentRegistration\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "StudentRegistration\\Views\\Student\\Index.cshtml",
@@ -151,20 +168,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "data.json",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\StudentRegistrationForm\\StudentRegistration\\StudentRegistration\\Data\\data.json",
               "RelativeDocumentMoniker": "StudentRegistration\\Data\\data.json",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\StudentRegistrationForm\\StudentRegistration\\StudentRegistration\\Data\\data.json",
               "RelativeToolTip": "StudentRegistration\\Data\\data.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-11T10:27:39.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\StudentRegistrationForm\\StudentRegistration\\StudentRegistration\\Models\\Student.cs",
               "RelativeDocumentMoniker": "StudentRegistration\\Models\\Student.cs",
@@ -176,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\StudentRegistrationForm\\StudentRegistration\\StudentRegistration\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "StudentRegistration\\Models\\BaseEntity.cs",
@@ -188,32 +205,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\StudentRegistrationForm\\StudentRegistration\\StudentRegistration\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "StudentRegistration\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\StudentRegistrationForm\\StudentRegistration\\StudentRegistration\\Controllers\\StudentController.cs",
               "RelativeToolTip": "StudentRegistration\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwA4AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T10:12:47.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\StudentRegistrationForm\\StudentRegistration\\StudentRegistration\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "StudentRegistration\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\StudentRegistrationForm\\StudentRegistration\\StudentRegistration\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "StudentRegistration\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAGIBAAAAAAAAAAAwwHEBAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwCkAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-11T09:13:16.726Z"
+              "WhenOpened": "2025-04-11T09:13:16.726Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\StudentRegistrationForm\\StudentRegistration\\StudentRegistration\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "StudentRegistration\\Views\\_ViewImports.cshtml",
@@ -225,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\StudentRegistrationForm\\StudentRegistration\\StudentRegistration\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "StudentRegistration\\Views\\_ViewStart.cshtml",
@@ -237,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\StudentRegistrationForm\\StudentRegistration\\StudentRegistration\\Program.cs",
               "RelativeDocumentMoniker": "StudentRegistration\\Program.cs",
@@ -245,12 +263,11 @@
               "RelativeToolTip": "StudentRegistration\\Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T09:13:03.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T09:13:03.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\StudentRegistrationForm\\StudentRegistration\\StudentRegistration\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "StudentRegistration\\Views\\Home\\Index.cshtml",
@@ -262,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\StudentRegistrationForm\\StudentRegistration\\StudentRegistration\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "StudentRegistration\\Controllers\\HomeController.cs",
